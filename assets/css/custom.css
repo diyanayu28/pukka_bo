@@ -1,0 +1,41 @@
+.px-navbar, .px-navbar .dropdown-menu, .px-navbar .dropdown-multi-column, .px-navbar .navbar-collapse {
+    background: #ea5d27;
+}
+
+.px-navbar .navbar-header {
+    color: #fff;
+    background: #ea5d27;
+}
+.px-nav-toggle {
+    color: #fff;
+    background: #ea5d27;
+}
+
+.px-nav {
+    background: #ededed;
+}
+
+.px-navbar .dropdown-menu > li.divider {
+    background: #fff;
+
+}
+
+.px-nav, .px-nav-item a {
+    color: #ea5d27;
+}
+
+.px-nav-box {
+    border-color: #ea5d27;
+    color: #ea5d27;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.btn-group-xs > .btn, .btn-xs {
+    padding: 4px 7px !important;
+
+}
